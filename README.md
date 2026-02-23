@@ -1,7 +1,6 @@
 # Hi, I'm Mohammed Wahaj
-
- Aspiring Data Analyst | Python | Power BI | Tableau | Excel  
- Based in London | Open to Graduate & Entry-Level Roles  
+Aspiring Data Analyst | Python | Power BI | Tableau
+London-based | Open to opportunities 
 
 ---
 
