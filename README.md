@@ -1,16 +1,57 @@
-## Hi there 👋
+Hi, I'm Mohammed wahaj 👋
 
-<!--
-**Wahaj2021/Wahaj2021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Aspiring Data Analyst | Python | Power BI | Tableau | Excel  
+ Based in London | Open to Graduate & Entry-Level Roles  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ About Me
+
+I am a data-driven problem solver passionate about transforming raw data into actionable business insights. 
+
+My projects focus on:
+- Customer Churn Analysis
+- Retail & E-Commerce Analytics
+- Healthcare Data Analysis
+- Financial Data Exploration
+
+I enjoy building interactive dashboards and delivering data-backed recommendations to support business decision-making.
+
+---
+
+ Technical Skills
+
+Languages & Tools
+- Python (Pandas, NumPy, Matplotlib, Seaborn)
+- Power BI (DAX, Data Modelling, Interactive Dashboards)
+- Tableau
+- Excel (Pivot Tables, VLOOKUP, Data Cleaning)
+
+---
+
+  Featured Projects
+
+ Customer Churn Analysis
+- Analysed customer churn patterns using Python
+- Identified high-risk customer segments
+- Built interactive Power BI dashboard
+- Provided business retention recommendations
+
+ E-Commerce Sales Analysis
+- Performed sales trend analysis
+- Identified seasonal revenue patterns
+- Built KPI dashboards in Power BI
+
+ Retail Sales Analytics
+- Cleaned and analysed transactional data
+- Conducted product performance analysis
+- Delivered data-driven pricing insights
+
+---
+
+ Let's Connect
+- Email: wahajmohammed6@gmail.com
+
+---
+
+⭐ I am currently seeking Graduate / Entry-Level Data Analyst opportunities in London.
