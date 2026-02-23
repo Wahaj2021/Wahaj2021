@@ -1,4 +1,4 @@
-Hi, I'm Mohammed wahaj 👋
+Hi, I'm Mohammed wahaj 
 
  Aspiring Data Analyst | Python | Power BI | Tableau | Excel  
  Based in London | Open to Graduate & Entry-Level Roles  
@@ -54,4 +54,4 @@ Languages & Tools
 
 ---
 
-⭐ I am currently seeking Graduate / Entry-Level Data Analyst opportunities in London.
+ I am currently seeking Graduate / Entry-Level Data Analyst opportunities in London.
