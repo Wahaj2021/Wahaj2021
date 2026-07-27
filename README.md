@@ -1,4 +1,4 @@
-# Hi, I'm Mohammed Wahaj 👋
+# Hi, I'm Mohammed Wahaj 
 
 **Aspiring Data Analyst** | SQL · Python · Power BI
  London-based · Open to Graduate / Entry-Level Data Analyst roles
@@ -57,4 +57,4 @@ My work spans retail, e-commerce, banking, healthcare and finance.
 
 - wahajmohammed6@gmail.com
 
-*Currently seeking Graduate / Entry-Level Data Analyst opportunities in London.*
+*Currently seeking Graduate / Entry-Level Data Analyst opportunities in United Kingdom.*
