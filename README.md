@@ -1,7 +1,7 @@
 # Hi, I'm Mohammed Wahaj 👋
 
 **Aspiring Data Analyst** | SQL · Python · Power BI
-📍 London-based · Open to Graduate / Entry-Level Data Analyst roles
+ London-based · Open to Graduate / Entry-Level Data Analyst roles
 
 ---
 
@@ -16,7 +16,7 @@ My work spans retail, e-commerce, banking, healthcare and finance.
 
 ---
 
-## 🛠️ Technical Skills
+##  Technical Skills
 
 **Databases & Querying**
 - SQL / MySQL — joins, aggregation, window functions, CTEs, views, data cleaning
@@ -31,7 +31,7 @@ My work spans retail, e-commerce, banking, healthcare and finance.
 
 ---
 
-## 📊 Portfolios
+##  Portfolios
 
 | Repository | What's inside |
 |------------|---------------|
@@ -41,7 +41,7 @@ My work spans retail, e-commerce, banking, healthcare and finance.
 
 ---
 
-## 🔍 Selected Highlights
+##  Selected Highlights
 
 - **Customer churn (banking):** identified that churn is concentrated in one
   region at nearly double the rate of others, and built a SQL risk-scoring
