@@ -53,8 +53,8 @@ My work spans retail, e-commerce, banking, healthcare and finance.
 
 ---
 
-## 📫 Let's Connect
+##  Let's Connect
 
-- 📧 wahajmohammed6@gmail.com
+- wahajmohammed6@gmail.com
 
 *Currently seeking Graduate / Entry-Level Data Analyst opportunities in London.*
